@@ -1,0 +1,26 @@
+{
+  "name": "asar-update",
+  "version": "1.0.0",
+  "description": "Electrol app asar updater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F145h/asar-update.git"
+  },
+  "keywords": [
+    "electron.js",
+    "asar",
+    "updater",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Igor Savchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F145h/asar-update/issues"
+  },
+  "homepage": "https://github.com/F145h/asar-update#readme"
+}
